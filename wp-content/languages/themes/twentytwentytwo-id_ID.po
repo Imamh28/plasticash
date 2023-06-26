@@ -2,7 +2,7 @@
 # This file is distributed under the same license as the Themes - Twenty Twenty-Two package.
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2023-06-23 14:33:06+0000\n"
+"PO-Revision-Date: 2022-01-24 14:39:46+0000\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -15,41 +15,6 @@ msgstr ""
 #, gp-priority: high
 msgid "Twenty Twenty-Two"
 msgstr "Twenty Twenty-Two"
-
-#: styles/swiss.json
-msgctxt "Duotone name"
-msgid "Default filter"
-msgstr "Penyaring standar"
-
-#: styles/swiss.json
-msgctxt "Font family name"
-msgid "Inter"
-msgstr "Inter"
-
-#: styles/swiss.json
-msgctxt "Style variation name"
-msgid "Swiss"
-msgstr "Swiss"
-
-#: styles/pink.json
-msgctxt "Font family name"
-msgid "IBM Plex Mono"
-msgstr "IBM Plex Mono"
-
-#: styles/pink.json
-msgctxt "Font family name"
-msgid "IBM Plex Sans"
-msgstr "IBM Plex Sans"
-
-#: styles/blue.json
-msgctxt "Font family name"
-msgid "DM Sans"
-msgstr "DM Sans"
-
-#: styles/blue.json
-msgctxt "Style variation name"
-msgid "Blue"
-msgstr "Biru"
 
 #: theme.json
 msgctxt "Gradient name"
@@ -878,11 +843,6 @@ msgstr "Halaman Tentang pada warna latar belakang solid"
 #: inc/patterns/page-layout-two-columns.php:36
 msgid "Oh hello. My name’s Angelo, and I operate this blog. I was born in Portland, but I currently live in upstate New York. You may recognize me from publications with names like <a href=\"#\">Eagle Beagle</a> and <a href=\"#\">Mourning Dive</a>. I write for a living.<br><br>I usually use this blog to catalog extensive lists of birds and other things that I find interesting. If you find an error with one of my lists, please keep it to yourself.<br><br>If that’s not your cup of tea, <a href=\"#\">I definitely recommend this tea</a>. It’s my favorite."
 msgstr "Halo. Nama saya Angelo, dan saya yang mengelola blog berikut. Saya lahir di Portland, tetapi saat ini saya tinggal di New York bagian utara. Anda mungkin mengenal saya dari publikasi saya dengan nama <a href=\"#\">Eagle Beagle</a> dan <a href=\"#\">Mourning Dive</a>. Saya menulis untuk mencari nafkah.<br><br>Saya biasanya menggunakan blog berikut untuk membuat katalog daftar lengkap burung dan hal lain yang menurut saya menarik. Jika Anda menemukan kesalahan dengan salah satu daftar saya, harap simpan saja.<br><br>Jika hal tersebut bukan pilihan Anda, <a href=\"#\">Saya sangat merekomendasikan teh berikut</a>. Teh favorit saya."
-
-#. Theme URI of the theme
-#, gp-priority: low
-msgid "https://wordpress.org/themes/twentytwentytwo/"
-msgstr "https://wordpress.org/themes/twentytwentytwo/"
 
 #. Author URI of the theme
 #, gp-priority: low
